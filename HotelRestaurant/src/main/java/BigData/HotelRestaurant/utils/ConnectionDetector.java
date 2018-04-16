@@ -30,7 +30,8 @@ public class ConnectionDetector {
 	          return false;
 	    }
 	
-	//zuzuzuzuzuzu
+	
+    //Al doilea razboi
 	
 
 }
