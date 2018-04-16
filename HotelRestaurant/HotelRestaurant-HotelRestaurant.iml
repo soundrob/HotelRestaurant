@@ -87,7 +87,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/build-info" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/builds" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/check-manifest" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
@@ -97,50 +96,46 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-resources" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-support" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaPrecompile" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/reload-dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/split-apk" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/splits-support" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="com.android.support:support-v4-23.2.1" level="project" />
+    <orderEntry type="library" name="__local_aars__:/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/httpcore-4.3.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-maps-7.3.0" level="project" />
-    <orderEntry type="library" name="__local_aars__:/Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/gcm.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-drive-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-ads-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-cast-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-appinvite-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-nearby-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-safetynet-7.3.0" level="project" />
-    <orderEntry type="library" name="__local_aars__:/Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/httpcore-4.3.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-location-7.3.0" level="project" />
     <orderEntry type="library" name="com.android.support:animated-vector-drawable-23.2.1" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-analytics-7.3.0" level="project" />
     <orderEntry type="library" name="com.android.support:support-annotations:23.2.1@jar" level="project" />
     <orderEntry type="library" name="com.android.support:appcompat-v7-23.2.1" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-plus-7.3.0" level="project" />
-    <orderEntry type="library" name="__local_aars__:/Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/apache-mime4j-0.6.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-gcm-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-games-7.3.0" level="project" />
     <orderEntry type="library" name="com.android.support:support-vector-drawable-23.2.1" level="project" />
-    <orderEntry type="library" name="__local_aars__:/Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/httpmime-4.3.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-fitness-7.3.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/gcm.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-wallet-7.3.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/httpmime-4.3.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-appstate-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-panorama-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-identity-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-appindexing-7.3.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-wearable-7.3.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/libs/apache-mime4j-0.6.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-base-7.3.0" level="project" />
     <orderEntry type="library" name="org.apache.http.legacy-android-23" level="project" />
   </component>

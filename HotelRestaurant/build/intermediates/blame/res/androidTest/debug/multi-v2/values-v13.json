@@ -14,6 +14,21 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/paltanrobert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/ffe2bfdd2e0de69c8d2462ac739d2d7c/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
         }
     ]
 }

@@ -14,6 +14,21 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/paltanrobert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/ffe2bfdd2e0de69c8d2462ac739d2d7c/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
         }
     ]
 }

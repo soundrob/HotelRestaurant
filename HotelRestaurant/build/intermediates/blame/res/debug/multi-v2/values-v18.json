@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/paltanrobert/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/paltanrobert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/ffe2bfdd2e0de69c8d2462ac739d2d7c/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
