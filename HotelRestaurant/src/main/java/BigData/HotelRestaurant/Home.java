@@ -1,4 +1,4 @@
-package freaktemplate.singlerestau;
+package BigData.HotelRestaurant;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -43,8 +43,8 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import freaktemplate.singlerestau.utils.Getset;
-import freaktemplate.singlerestau.utils.ImageLoader;
+import BigData.HotelRestaurant.utils.Getset;
+import BigData.HotelRestaurant.utils.ImageLoader;
 
 public class Home extends Activity {
 
@@ -389,7 +389,7 @@ public class Home extends Activity {
 			@Override
 			public void onClick(View arg0) {
 				// TODO Auto-generated method stub
-				Intent i = new Intent(Home.this, freaktemplate.singlerestau.Menu.class);
+				Intent i = new Intent(Home.this, BigData.HotelRestaurant.Menu.class);
 
 				startActivity(i);
 
