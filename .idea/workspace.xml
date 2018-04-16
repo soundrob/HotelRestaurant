@@ -2,7 +2,585 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fae92320-6831-4904-89d3-0e0d65afdc25" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/Home.java" afterPath="$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/Home.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/android/tools/ir/dummy/slice_0.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/58/com/google/android/gms/wallet/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/android/tools/ir/dummy/slice_1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/59/com/google/android/gms/fitness/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/android/tools/ir/dummy/slice_2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/cast/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/gcm/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/60/com/google/android/gms/location/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/android/support/v4/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/android/tools/ir/dummy/slice_3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/ads/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/analytics/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appinvite/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/61/com/google/android/gms/appstate/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$anim.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/android/support/v7/appcompat/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/android/tools/ir/dummy/slice_4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/all/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/appindexing/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/nearby/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/panorama/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/62/com/google/android/gms/wearable/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/AlarmReceiver.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/AlertDialogManager$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/AlertDialogManager.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/CatGetSet.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/CommonUtilities.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ConnectionDetector.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/CustomMarker.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/DataBaseHelper.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/FileCache.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/GCMIntentService.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/GPSTracker$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/GPSTracker$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/GPSTracker.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/GcmBroadcastReceiver.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/Getset.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/Gujarati.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader$BitmapDisplayer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader$BitmapDisplayer1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader$PhotoToLoad.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader$PhotoToLoad1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader$PhotosLoader.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader$PhotosLoader1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageLoader.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImagePagerAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ImageViewPager.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/ItemGetSet.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/MemoryCache.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/NotificationService.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/RoundedImageView.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/Utils.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/WakeLocker.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/BigData/HotelRestaurant/utils/v2GetRouteDirection.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/63/com/android/tools/ir/dummy/slice_5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/android/tools/ir/dummy/slice_6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/games/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/64/com/google/android/gms/maps/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Aboutus$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Aboutus$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Aboutus.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$4$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$SplashScreenDelay.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable$mDateSetListener.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BookTable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/BuildConfig.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Gallery$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Gallery$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Gallery$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Gallery$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Gallery.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$10.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$11.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$12.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$7.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$8.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$9.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$CustomPagerAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home$getrestaudetail.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Home.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/MainActivity$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/MainActivity$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/MainActivity$GetRouteTask$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/MainActivity$GetRouteTask.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/MainActivity.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Manifest$permission.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Manifest.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$DownloadImageTask.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$LazyAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail$1$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail$1$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail$1$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail12$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail12$1$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail12$1$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail12$1$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail12$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu$getcategorydetail12.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Menu.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Message$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Message$LazyAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Message$SplashScreenDelay.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Message.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Notes$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Notes$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Notes$LazyAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Notes$SplashScreenDelay$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Notes$SplashScreenDelay.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Notes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Offer$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Offer$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Offer$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Offer$LazyAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Offer$getofferdetail.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Offer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$4$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5$6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$7.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$8.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$LazyAdapter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay$1$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay1$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay1$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$SplashScreenDelay1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$getlogin$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$getlogin.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$mDateSetListener.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail$posthome.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Orderdetail.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$anim.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$menu.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R$xml.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Setting.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Splash$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Splash$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/BigData/HotelRestaurant/Splash.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/android/support/graphics/drawable/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/android/tools/ir/dummy/slice_7.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/65/com/google/android/gms/plus/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/android/tools/ir/dummy/slice_8.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/66/com/google/android/gms/safetynet/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/android/support/graphics/drawable/animated/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/android/tools/ir/dummy/slice_9.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/drive/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$raw.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/67/com/google/android/gms/identity/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/68.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/69.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/70.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/71.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/72.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/73.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/74.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/75.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/76.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/77.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/78.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/79.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/80.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/81.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/82.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/83.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/84.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/85.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/86.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/87.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/88.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/89.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/90.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/91.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/92.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/94.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/19/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/20/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/21/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/22/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/23/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/24/classes.dex" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageDebug/debug/zip-cache/JKEJhGnuKZw7oSvkrhPyRWL5iRw=" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageDebug/debug/zip-cache/JKEJhGnuKZw7oSvkrhPyRWL5iRw=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/dep/dependencies.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_1.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_5.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/10/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/11/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/5/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/outputs/apk/debug/HotelRestaurant-debug.apk" afterPath="$PROJECT_DIR$/HotelRestaurant/build/outputs/apk/debug/HotelRestaurant-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-af.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-af.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-am.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-am.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ar.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-az-rAZ.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-az-rAZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-bg.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-bg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-bn-rBD.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-bn-rBD.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ca.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ca.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-cs.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-cs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-da.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-da.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-de.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-de.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-el.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-el.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-es.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-es.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-et-rEE.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-et-rEE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-eu-rES.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-eu-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fa.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fi.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fr.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-fr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-gl-rES.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-gl-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-gu-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-gu-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-h320dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-h320dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-h720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hi.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hr.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hu.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hy-rAM.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-hy-rAM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-in.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-in.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-is-rIS.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-is-rIS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-it.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-it.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-iw.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-iw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ja.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ja.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ka-rGE.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ka-rGE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-kk-rKZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-km-rKH.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-km-rKH.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-kn-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-kn-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ko.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ko.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ky-rKG.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ky-rKG.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-land.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-land.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-large-v4.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-large-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ldltr-v21.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ldltr-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-lo-rLA.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-lo-rLA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-lt.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-lt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-lv.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-lv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-mk-rMK.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-mk-rMK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ml-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ml-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-mn-rMN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-mn-rMN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-mr-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-mr-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ms-rMY.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ms-rMY.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-my-rMM.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-my-rMM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-nb.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-nb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ne-rNP.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ne-rNP.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-night-v8.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-night-v8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-nl.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-nl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pa-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pa-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pl.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-port.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-port.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pt.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-pt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ro.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ru.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ru.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-si-rLK.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-si-rLK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sk.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sl.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sq-rAL.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sq-rAL.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sr.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sv.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sw.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-sw600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ta-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ta-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-te-rIN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-te-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-th.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-th.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-tl.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-tl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-tr.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-tr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-uk.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-uk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ur-rPK.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-ur-rPK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-uz-rUZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v12.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v12.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v17.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v18.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v18.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v21.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v22.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v22.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v23.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-v23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-vi.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-vi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w360dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w360dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w480dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w480dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w500dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w500dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w600dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w720dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-xlarge-land-v4.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-xlarge-land-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-xlarge-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zu.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values-zu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/blame/res/debug/single/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/build-info/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/instantRun/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/HotelRestaurant/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/utils/CommonUtilities.java" afterPath="$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/utils/CommonUtilities.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +595,42 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1022">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="466" column="17" lean-forward="false" selection-start-line="466" selection-start-column="17" selection-end-line="466" selection-end-column="17" />
+              <folding>
+                <element signature="e#12639#12666#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonUtilities.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/utils/CommonUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -1764,6 +2371,13 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/utils/CommonUtilities.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
@@ -1786,7 +2400,8 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1795,52 +2410,8 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HotelRestaurant-HotelRestaurant" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotelRestaurant" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotelRestaurant-HotelRestaurant" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotelRestaurant" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotelRestaurant-HotelRestaurant" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="strings.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResGroupNode" />
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1875,10 +2446,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotelRestaurant" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotelRestaurant-HotelRestaurant" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BigData" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotelRestaurant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1970,7 +2566,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523874742524" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523879085755" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2070,7 +2666,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523874742524" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523879085755" />
       </method>
     </configuration>
     <list size="1">
@@ -2109,38 +2705,39 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2151,11 +2748,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HotelRestaurant/build.gradle">
+    <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelRestaurant/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2163,14 +2767,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1022">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="466" column="17" lean-forward="false" selection-start-line="466" selection-start-column="17" selection-end-line="466" selection-end-column="17" />
+          <folding>
+            <element signature="e#12639#12666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelRestaurant/src/main/java/BigData/HotelRestaurant/utils/CommonUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding />
         </state>
       </provider>

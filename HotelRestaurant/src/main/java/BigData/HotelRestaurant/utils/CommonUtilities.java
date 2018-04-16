@@ -5,7 +5,7 @@ import android.content.Intent;
 
 public class CommonUtilities {
 	
-	//put your server url here
+	//put your server url here d
 	public static final String SERVER_URL ="SendPushNotification.php";
 	// Google project id
 	public static final String SENDER_ID = "restaurant-200915";

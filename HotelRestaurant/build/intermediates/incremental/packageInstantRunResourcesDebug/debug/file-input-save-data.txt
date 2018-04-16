@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Apr 16 13:27:57 EEST 2018
+#Mon Apr 16 14:28:59 EEST 2018
 2.base=/Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/build/intermediates/assets/debug
 5.set=ASSET
 0.path=fonts/verdanab.ttf
